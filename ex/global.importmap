@@ -1,0 +1,8 @@
+{
+  "imports": {
+    "three": "../node_modules/three/build/three.module.js",
+    "three/": "../node_modules/three/",
+    "lil-gui": "../node_modules/lil-gui/dist/lil-gui.esm.js",
+    "omega/dist/": "../dist/"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "omega",
+  "version": "0.0.0",
+  "description": "threejs addons",
+  "author": "ycw (https://github.com/ycw)",
+  "repository": {
+    "url": "https://github.com/ycw/omega"
+  },
+  "type": "module",
+  "scripts": {
+    "build": "rollup -c",
+    "dev": "rollup -c -w",
+    "serve": "http-server -c-1 --cors"
+  },
+  "files": [
+    "dist"
+  ],
+  "keywords": [
+    "threejs",
+    "addons"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "@rollup/plugin-typescript": "^8.3.0",
+    "@types/three": "^0.137.0",
+    "http-server": "^14.1.0",
+    "lil-gui": "^0.16.0",
+    "rollup": "^2.67.1",
+    "rollup-plugin-dts": "^4.1.0",
+    "rollup-plugin-terser": "^7.0.2",
+    "three": "^0.137.5",
+    "typescript": "^4.5.5"
+  }
+}
