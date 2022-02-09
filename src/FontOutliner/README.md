@@ -6,7 +6,7 @@ Constructing shapes from font glyphs.
 
 ## Examples
 
-- [font-outliner](../../ex/font-outliner/)
+- [font-outliner](https://ycw.github.io/omega/ex/font-outliner/)
 
 
 

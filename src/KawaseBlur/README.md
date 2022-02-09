@@ -6,7 +6,7 @@ Kawase Blur effect.
 
 ## Examples
 
-- [kawase blur](../../ex/kawase-blur/)
+- [kawase blur](https://ycw.github.io/omega/ex/kawase-blur/)
 
 
 

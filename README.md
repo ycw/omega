@@ -1,6 +1,6 @@
 ![](./logo.png)
 
-- [Examples](ex/)
+- [Examples](https://ycw.github.io/omega/ex/)
 - [CSG](src/CSG/)
 - [DualBloom](src/DualBloom/)
 - [FontOutliner](src/FontOutliner/)

@@ -9,7 +9,7 @@ Supports taper, twist, dasharray and uvgen.
 
 ## Examples
 
-- [strip](../../ex/strip/)
+- [strip](https://ycw.github.io/omega/ex/strip/)
 
 
 

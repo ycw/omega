@@ -10,7 +10,7 @@ Output mesh with indexed buffer geometry.
 
 ## Examples
 
-- [csg](../../ex/csg/)
+- [csg](https://ycw.github.io/omega/ex/csg/)
 
 
 

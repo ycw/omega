@@ -6,7 +6,7 @@ Radial blur effect.
 
 ## Examples
 
-- [radial blur](../../ex/radial-blur/)
+- [radial blur](https://ycw.github.io/omega/ex/radial-blur/)
 
 
 

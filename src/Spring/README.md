@@ -6,7 +6,7 @@ Spring motion.
 
 ## Examples
 
-- [spring](../../ex/spring/)
+- [spring](https://ycw.github.io/omega/ex/spring/)
 
 
 

@@ -6,7 +6,7 @@ Lens distortion effect.
 
 ## Examples
 
-- [lens distortion](../../ex/lens-distortion/)
+- [lens distortion](https://ycw.github.io/omega/ex/lens-distortion/)
 
 
 
