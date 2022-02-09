@@ -47,7 +47,7 @@ Outline options:
 
 ```js
 outliner.outline('hi', {
-  size: 100      // font size; default 100
+  size: 100,      // font size; default 100
   isLTR: true,   // is ltr writing-mode; default true
   isCCW: false,  // is solid shape using CCW; default false
 });
