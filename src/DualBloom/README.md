@@ -18,7 +18,7 @@ Exposed the internal blur pass for using standalone.
 ## Usage 
 
 ```js
-import { DualBloomPass, DualBlurPass } from 'omega/dist/DualBloomPass.js'
+import { DualBloomPass, DualBlurPass } from 'omega/dist/DualBloom.js'
 ```
 
 
