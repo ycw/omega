@@ -10,8 +10,8 @@ Exposed the internal blur pass for using standalone.
 
 ## Examples
 
-- [DualBloom](https://ycw.github.io/omega/ex/dual-bloom/)
-- [DualBlur](https://ycw.github.io/omega/ex/dual-blur/)
+- [dual-bloom](https://ycw.github.io/omega/ex/dual-bloom/)
+- [dual-blur](https://ycw.github.io/omega/ex/dual-blur/)
 
 
 
