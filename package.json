@@ -10,7 +10,7 @@
   "scripts": {
     "build": "rollup -c",
     "dev": "rollup -c -w",
-    "serve": "http-server -c-1 --cors"
+    "serve": "wds --watch"
   },
   "files": [
     "dist"
@@ -23,7 +23,7 @@
   "devDependencies": {
     "@rollup/plugin-typescript": "^8.3.0",
     "@types/three": "^0.137.0",
-    "http-server": "^14.1.0",
+    "@web/dev-server": "^0.1.29",
     "lil-gui": "^0.16.0",
     "rollup": "^2.67.1",
     "rollup-plugin-dts": "^4.1.0",
