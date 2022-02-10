@@ -21,7 +21,7 @@ for (const name of fs.readdirSync('src')) {
   if (!fs.existsSync(index)) continue;
   config.push({
     input: `src/${name}/index.ts`,
-    output: { file: `dist/${name}.js` },
+    output: { file: `dist/${name}.js`, sourcemap: true },
     external: [/^three(?:\/|$)/],
     plugins: pluginsJs
   }, {
